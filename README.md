@@ -42,11 +42,7 @@ Surtout n'abandonnez pas, et ne regardez pas la solution, faites la vôtre !
 
 Afin de vous aider à résoudre ses différents exercices, j'ai mis en place un fichier [HELP.md](./HELP.md) avec la méthodologie que j'utilise quand je suis face à un problème donné. C'est une méthodologie parmi tant d'autres et malheureusement ça ne fait pas des miracles alors au boulot ! 😉
 
-## 🚀 Comment contribuer ? 
 
-Vous aimez **PythonChallenges** et vous voulez proposer vos challenges, proposer une solution ou même corriger une simple faute d'orthographe ? 
-Tout le monde peut contribuer à l'amélioration du projet !
-Les étapes à suivre pour contribuer se trouvent dans le fichier [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## 📄 Licence
 
